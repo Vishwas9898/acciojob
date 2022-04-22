@@ -1,0 +1,23 @@
+.head{
+    
+    color: aliceblue;
+    
+    background-color: black;
+}
+header{
+    text-align: center;
+    font-size: 300%;
+}
+form{
+    background-image: linear-gradient(to right, black,red);
+}
+img{
+    width: 100%;
+    border-radius: 25px;
+}
+footer{
+    text-align: center;
+    font-size: 300%; 
+    color: aliceblue;
+    background-color: black;
+}
